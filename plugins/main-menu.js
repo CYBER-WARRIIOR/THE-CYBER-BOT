@@ -536,7 +536,7 @@ import {
    
     global.fcontact = { key: { fromMe: false, participant: `0@s.whatsapp.net`, remoteJid: 'status@broadcast' }, message: { contactMessage: { displayName: `${name}`, vcard: `BEGIN:VCARD\nVERSION:3.0\nN:;a,;;;\nFN:${name}\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`}}}
     const infoText = `
-    ╭━༻𝑪𝒀𝑩𝑬𝑹_𝑾𝑨𝑹𝑹𝑰𝑶𝑹༺⊰━─
+     ╭━༻𝑪𝒀𝑩𝑬𝑹_𝑾𝑨𝑹𝑹𝑰𝑶𝑹༺⊰━─
     
      *Good Afternoon 🌇* 
 
@@ -562,7 +562,7 @@ import {
     │
     │*🌸🤭- " 𝐀 𝐅ɑkə 𝐒mıɭə 𝐂ɑη ┣𝐥ıdə
     │     𝐌ıɭɭıoηs 𝐎f 𝐓əɑrs ||%❤😚*
-      ╰━━━━━━━━━━━━━━━━━━━━╯
+     ╰━━━━━━━━━━━━━━━━━━━━╯
  ` 
 ;
 
